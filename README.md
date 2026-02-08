@@ -1,4 +1,4 @@
-# Elysian Backend
+# umkmai Backend
 
 A Go-based API server for workflow management and execution, built with Fiber framework.
 
@@ -13,7 +13,7 @@ A Go-based API server for workflow management and execution, built with Fiber fr
 
 1. **Clone and setup**:
    ```bash
-   git clone https://github.com/Elysian-Rebirth/backend-go.git
+   git clone git@github.com:tomidev23/BE-umkmai.git
    cd backend-go
    cp .env.example .env
    ```
