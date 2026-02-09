@@ -10,22 +10,22 @@ import (
 	"syscall"
 	"time"
 
-	_ "github.com/Elysian-Rebirth/backend-go/docs"
-	"github.com/Elysian-Rebirth/backend-go/internal/config"
-	"github.com/Elysian-Rebirth/backend-go/internal/delivery/http/handler"
-	"github.com/Elysian-Rebirth/backend-go/internal/delivery/http/routes"
-	"github.com/Elysian-Rebirth/backend-go/internal/infrastructure/cache"
-	"github.com/Elysian-Rebirth/backend-go/internal/infrastructure/database"
-	"github.com/Elysian-Rebirth/backend-go/internal/middleware"
-	postgresRepo "github.com/Elysian-Rebirth/backend-go/internal/repository/postgres"
-	"github.com/Elysian-Rebirth/backend-go/internal/usecase/auth"
+	_ "github.com/tomidev23/BE-umkmai/docs"
+	"github.com/tomidev23/BE-umkmai/internal/config"
+	"github.com/tomidev23/BE-umkmai/internal/delivery/http/handler"
+	"github.com/tomidev23/BE-umkmai/internal/delivery/http/routes"
+	"github.com/tomidev23/BE-umkmai/internal/infrastructure/cache"
+	"github.com/tomidev23/BE-umkmai/internal/infrastructure/database"
+	"github.com/tomidev23/BE-umkmai/internal/middleware"
+	postgresRepo "github.com/tomidev23/BE-umkmai/internal/repository/postgres"
+	"github.com/tomidev23/BE-umkmai/internal/usecase/auth"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )
 
-// @title           Elysian Backend API
+// @title           umkmai Backend API
 // @version         1.0.0
-// @description     Elysian Backend API provides user authentication, management, and health check endpoints. Built with Go and Gin framework.
+// @description     umkmai Backend API provides user authentication, management, and health check endpoints. Built with Go and Gin framework.
 // @termsOfService  http://swagger.io/terms/
 
 // @contact.name    API Support
