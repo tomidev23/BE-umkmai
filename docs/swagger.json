@@ -5,8 +5,8 @@
     ],
     "swagger": "2.0",
     "info": {
-        "description": "Elysian Backend API provides user authentication, management, and health check endpoints. Built with Go and Gin framework.",
-        "title": "Elysian Backend API",
+        "description": "Umkm Backend API provides user authentication, management, and health check endpoints. Built with Go and Gin framework.",
+        "title": "Umkm Backend API",
         "termsOfService": "http://swagger.io/terms/",
         "contact": {
             "name": "API Support",
