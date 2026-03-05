@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/config"
-	"github.com/Elysian-Rebirth/backend-go/internal/infrastructure/cache"
-	"github.com/Elysian-Rebirth/backend-go/internal/infrastructure/database"
+	"github.com/tomidev23/BE-umkmai/internal/config"
+	"github.com/tomidev23/BE-umkmai/internal/infrastructure/cache"
+	"github.com/tomidev23/BE-umkmai/internal/infrastructure/database"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

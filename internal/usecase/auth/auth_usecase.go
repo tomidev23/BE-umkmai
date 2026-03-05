@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
-	"github.com/Elysian-Rebirth/backend-go/internal/domain/repository"
-	"github.com/Elysian-Rebirth/backend-go/internal/infrastructure/cache"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/domain/repository"
+	"github.com/tomidev23/BE-umkmai/internal/infrastructure/cache"
 )
 
 type AuthUseCase interface {

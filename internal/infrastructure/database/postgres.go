@@ -9,8 +9,8 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/config"
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/config"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
 )
 
 // NewPostgresDB creates a new PostgreSQL database connection using GORM

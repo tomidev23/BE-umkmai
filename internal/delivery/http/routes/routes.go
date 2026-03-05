@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/Elysian-Rebirth/backend-go/internal/delivery/http/handler"
-	"github.com/Elysian-Rebirth/backend-go/internal/middleware"
+	"github.com/tomidev23/BE-umkmai/internal/delivery/http/handler"
+	"github.com/tomidev23/BE-umkmai/internal/middleware"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"

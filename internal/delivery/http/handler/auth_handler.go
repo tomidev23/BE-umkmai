@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
-	"github.com/Elysian-Rebirth/backend-go/internal/usecase/auth"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/usecase/auth"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 )

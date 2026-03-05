@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
 )
 
 type UserRepository interface {

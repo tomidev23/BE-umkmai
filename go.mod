@@ -1,4 +1,4 @@
-module github.com/Elysian-Rebirth/backend-go
+module github.com/tomidev23/BE-umkmai
 
 go 1.25.5
 

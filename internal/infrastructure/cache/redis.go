@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/config"
+	"github.com/tomidev23/BE-umkmai/internal/config"
 	"github.com/redis/go-redis/v9"
 )
 

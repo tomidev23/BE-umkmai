@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/config"
+	"github.com/tomidev23/BE-umkmai/internal/config"
 	"github.com/golang-jwt/jwt/v5"
 )
 

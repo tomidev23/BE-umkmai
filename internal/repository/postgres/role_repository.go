@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
-	"github.com/Elysian-Rebirth/backend-go/internal/domain/repository"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/domain/repository"
 	"gorm.io/gorm"
 )
 

@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Elysian-Rebirth/backend-go/internal/domain"
-	"github.com/Elysian-Rebirth/backend-go/internal/domain/repository"
-	"github.com/Elysian-Rebirth/backend-go/internal/middleware"
+	"github.com/tomidev23/BE-umkmai/internal/domain"
+	"github.com/tomidev23/BE-umkmai/internal/domain/repository"
+	"github.com/tomidev23/BE-umkmai/internal/middleware"
 	"github.com/gin-gonic/gin"
 )
 
